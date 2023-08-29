@@ -1,0 +1,14 @@
+numpy
+streamlit
+pandas
+matplotlib
+plotly
+pywaffle
+wordcloud
+mplcursors
+scikit-learn
+tensorflow_hub
+tensorflow
+gensim
+boto3
+seaborn

@@ -1,0 +1,20 @@
+The Indian Cuisine Analysis and Recommendation System project aims to create an end-to-end data pipeline for Indian recipes.
+It performs data analysis on recipe features, and deploy a Machine Learning model for recipe recommendations based on ingredients. 
+This project leverages a combination of AWS services, including AWS S3 for storage, AWS Glue for ETL, and Amazon EC2 for deployment.
+
+dependencies-
+streamlit 
+numpy 
+pandas 
+matplotlib.pyplot 
+matplotlib.cm
+seaborn
+collections
+random
+plotly.express 
+plotly.graph_objects
+pywaffle  
+wordcloud
+sklearn.feature_extraction.text - TfidfVectorizer
+sklearn.metrics.pairwise - cosine_similarity
+
